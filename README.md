@@ -17,7 +17,7 @@ This is a web application for Luigi's Pizza which is a pizza selling venture, th
 
 
 
-<img src="images/pizzashop.png>
+<img src="pizzashop.png" alt="A photo of pizza shop">
 
 
 
