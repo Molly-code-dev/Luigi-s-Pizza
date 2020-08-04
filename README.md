@@ -17,7 +17,7 @@ This is a web application for Luigi's Pizza which is a pizza selling venture, th
 
 
 
-https://raw.githubusercontent.com/Owiti-Charles/Pizza-Deliciosa/master/images/pizzashop.png
+<img src="images/pizzashop.png>
 
 
 
