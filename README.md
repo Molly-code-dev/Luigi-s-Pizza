@@ -14,7 +14,17 @@ This is a web application for Luigi's Pizza which is a pizza selling venture, th
 
 ## Screenshot
 
-     <img src="https://raw.githubusercontent.com/Molly-code-dev/Luigi-s-Pizza/master/images/pizzashop.png" width="900px" height="440px">
+
+
+
+https://raw.githubusercontent.com/Owiti-Charles/Pizza-Deliciosa/master/images/pizzashop.png
+
+
+
+
+
+
+
 
 ## Live Page
 
