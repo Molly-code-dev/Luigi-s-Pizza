@@ -14,11 +14,11 @@ This is a web application for Luigi's Pizza which is a pizza selling venture, th
 
 ## Screenshot
 
-<img src="images/pizzashop.png" alt="A photo of pizza shop">
+    <img src="images/pizzashop.png" alt="A photo of pizza shop">
 
 ## Live Page
 
-https://github.com/Molly-code-dev/Luigi-s-Pizza.git
+     https://molly-code-dev.github.io/Luigi-s-Pizza/
 
 ## Installation / Setup instruction
 
