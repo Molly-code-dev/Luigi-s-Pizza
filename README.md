@@ -28,7 +28,7 @@ This is a web application for Luigi's Pizza which is a pizza selling venture, th
 
 ## Live Page
 
-https://github.com/Molly-code-dev/Luigi-s-Pizza.git 
+https://molly-code-dev.github.io/Luigi-s-Pizza/ 
 
 ## Installation / Setup instruction
 
@@ -46,7 +46,7 @@ https://github.com/Molly-code-dev/Luigi-s-Pizza.git
 * [CSS](https://github.com/topics/css3)
 * [Bootstrap](https://github.com/topics/bootstrap)
 * [Javascript](https://github.com/topics/javascript)
-* markdown
+* [Markdown](https://github.com/topics/markdown)
 
 ## BDD
 
