@@ -14,21 +14,11 @@ This is a web application for Luigi's Pizza which is a pizza selling venture, th
 
 ## Screenshot
 
-
-
-
-<img src="pizzashop.png" alt="A photo of pizza shop">
-
-
-
-
-
-
-
+<img src="images/pizzashop.png" alt="A photo of pizza shop">
 
 ## Live Page
 
-https://github.com/Molly-code-dev/Luigi-s-Pizza.git 
+https://github.com/Molly-code-dev/Luigi-s-Pizza.git
 
 ## Installation / Setup instruction
 
@@ -66,7 +56,7 @@ https://github.com/Molly-code-dev/Luigi-s-Pizza.git
 
 * All toppings has the same price regardless of the pizza size
 
-## Contact Information 
+## Contact Information
 
 If you have any question or contributions that would better this app, please email me at [mollymumbi42@gmail.com]
 
